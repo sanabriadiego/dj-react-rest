@@ -1,0 +1,4 @@
+dj_api/__pycache__
+tasks/__pycache__
+tasks/migrations
+db.sqlite3
